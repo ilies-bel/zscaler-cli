@@ -1,0 +1,16 @@
+name: zscaler
+help: Zscaler command line tool
+version: 0.1.0
+
+commands:
+- name: kill
+  alias: k
+  help: Kill Zscaler
+
+- name: start
+  alias: s
+  help: Start Zscaler
+
+- name: open
+  alias: o
+  help: Start and open the Zscaler GUI
